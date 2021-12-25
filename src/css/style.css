@@ -30,6 +30,9 @@
     height: 50px;
     filter: drop-shadow(2px 4px 6px black);
 }
+.btn {
+    margin-top: 10px;
+}
 .btn1 {
     animation: holdInvisible 2s, slideInFromLeft 2s 2s;
 }
